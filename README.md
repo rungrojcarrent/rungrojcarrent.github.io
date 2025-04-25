@@ -1,14 +1,16 @@
 
 
----
 
-# sparesos
-**GitHub Pages สำหรับสร้างเว็บไซต์พอร์ตโฟลิโอส่วนตัวและอาชีพ**
+
+
+
 
 <div style="text-align:center">
   <img src="./jiraphinya_logo.png" alt="logo Academic Pages" style="width:100px;">
 </div>
 
+# sparesos
+## GitHub Pages 
 ---
 
 ### การเริ่มต้นใช้งาน
