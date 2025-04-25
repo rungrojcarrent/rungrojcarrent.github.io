@@ -5,7 +5,7 @@
 ### Academic Pages
 **Academic Pages คือเทมเพลต GitHub Pages สำหรับสร้างเว็บไซต์พอร์ตโฟลิโอส่วนตัวและอาชีพ**
 
-![ตัวอย่างเทมเพลต Academic Pages](images/homepage.png "ตัวอย่างเทมเพลต Academic Pages")
+![ตัวอย่างเทมเพลต Academic Pages](./homepage.png "logo Academic Pages")
 
 ---
 
